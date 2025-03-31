@@ -63,6 +63,8 @@ Result
 
 ![Screenshot_271](https://github.com/user-attachments/assets/547e6989-a51f-4bc9-9175-4017f29b2d84)
 
+https://github.com/user-attachments/assets/55c0751a-1f8f-4392-b578-3d572dbc40bf
+
 ## analysis of the results
 
 the greatest stresses (red zone) are concentrated at the transition point from the cylindrical rod to the flange, on the inner surface of the flange, around the hole in the rod. There is also a small stress concentration at the junction of the rod with the flange. The screenshot shows the von Mises stress. This is an equivalent stress that is used to evaluate the flowability and strength of a material under a complex stress state (when several stresses are acting simultaneously). The maximum voltage is approximately 6 x 10^4 N/m2 = 60 MPa (megapascals).
